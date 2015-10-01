@@ -1,1 +1,1 @@
-demo README
+OpenshiftStarter readme
